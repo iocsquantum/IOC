@@ -1,6 +1,6 @@
 # URLs con ruta completa - NO se pueden bloquear sin Web Filter
 # Extrae el dominio si quieres bloquearlas por FQDN/DNS
-# Total: 129
+# Total: 130
 
 179.43.175.187/puao/PAYMENT.hta
 179.43.175.187/puao/PAYMENTS.exe
@@ -131,3 +131,4 @@ https://www.zpaste.net
 qtcland.vn/wp-includes/
 spartanpass.com/*
 https://d9t3iv0hubcc73fhucvg.nexuslogicray.co.in  
+https://contaboserver.net
