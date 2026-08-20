@@ -2,7 +2,7 @@
 # FortiGate External Connector tipo IP Address
 # Actualizado: 2026-08-08  |  Total: 
 
-1.1.1.1
+
 1.24.16.42
 1.83.125.181
 1.85.216.32
