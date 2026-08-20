@@ -1,6 +1,6 @@
 # Threat Feed - Dominios maliciosos (IOCs)
 # FortiGate External Connector tipo Domain Name / DNS Filter
-# Actualizado: 2026-08-05  |  Total: 149
+# Actualizado: 2026-08-20  |  Total: 
 
 *.energiaquan.tum.com
 *.energiaquan5tum.com
