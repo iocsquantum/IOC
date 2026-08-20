@@ -1,6 +1,6 @@
 # URLs con ruta completa - NO se pueden bloquear sin Web Filter
 # Extrae el dominio si quieres bloquearlas por FQDN/DNS
-# Total: 130
+# Total: 130  Actualizacion:20/08/26
 
 179.43.175.187/puao/PAYMENT.hta
 179.43.175.187/puao/PAYMENTS.exe
