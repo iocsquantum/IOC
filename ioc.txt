@@ -1,6 +1,6 @@
 # Threat Feed - IPs maliciosas (IOCs)
 # FortiGate External Connector tipo IP Address
-# Actualizado: 2026-08-05  |  Total: 1666
+# Actualizado: 2026-08-08  |  Total: 
 
 1.1.1.1
 1.24.16.42
